@@ -1,2 +1,3 @@
-# Farry
-Website builder/maintainer 
+Faridat 
+my first trier 
+my web development journey 
